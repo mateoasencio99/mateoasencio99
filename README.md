@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @mateoasencio99
-- 👀 I’m interested in  aprender sobre programacion para conseguir trabajo.
-💞️ I’m looking to collaborate on  cualquier trabajo de programador.
+- 👀 I’m interested in develop.
+💞️ I’m looking to collaborate on  cualquier trabajo de full stack developer.
 - 📫 How to reach me ... 9 11 3546584838. Email: mateoasencio99@gmail.com
 
 <!---
