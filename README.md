@@ -1,7 +1,7 @@
 - 👋 Hi, I’m Mateo Asencio
 
 - 👀 I’m interested in develop.
-💞️ I’m looking to collaborate on full stack developer.
+- 💞️ I'm looking to work as a full stack developer.
 - 📫 How to reach me ... 9 11 3546584838. Email: mateoasencio99@gmail.com
 
 <!---
